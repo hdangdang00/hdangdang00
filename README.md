@@ -5,7 +5,7 @@
     <br />
     I am an undergraduate student interested in providing better user experiences through web front-end technologies.
     <br />
-    My former work experience is mainly tied with React.js and Sass for API communication and data management, and I've recently started learning Next.js, TypeScript, and Tailwind CSS to explore trending front-end development workflows.🔭
+    My former work experience is mainly tied with React.js and Redux Toolkit for API communication and data management, and I've recently started learning Next.js, TypeScript, and Tailwind CSS to explore trending front-end development workflows.🔭
 </samp>
 </p>
 

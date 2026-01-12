@@ -5,7 +5,7 @@
     <br />
     I am an undergraduate student interested in providing better user experiences through web front-end technologies.
     <br />
-    My former work experience is mainly tied with React.js and Redux Toolkit for API communication and data management, and I've recently started learning Next.js, TypeScript, and Tailwind CSS to explore trending front-end development workflows.🔭
+    My former work experience is mainly tied with React.js and Redux Toolkit for API communication and data management, and I've recently started learning TypeScript, Tailwind CSS to explore trending front-end development workflows.🔭
 </samp>
 </p>
 
@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white" />
   <br />
@@ -40,8 +39,5 @@
   </a>
   <a target="_blank" href="https://www.linkedin.com/in/hwangdayoung/">
     <img src="https://img.shields.io/badge/LinkedIn-2d64bc?&style=for-the-badge&logo=InVision&logoColor=white" />
-  </a>
-  <a target="_blank" href="https://medium.com/@hdangdang00">
-    <img src="https://img.shields.io/badge/Tech Blog-000000?&style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
